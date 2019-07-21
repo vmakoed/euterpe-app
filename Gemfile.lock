@@ -1,11 +1,10 @@
 GIT
   remote: https://github.com/vmakoed/euterpe.git
-  revision: dac655fec6cd348da4d6cdb24727c74553663bae
-  ref: dac655f
+  revision: e53c14abd451960978349fdd3685f5027255094a
+  ref: e53c14a
   specs:
     euterpe (0.1.0)
       activesupport (~> 5.2, >= 5.2.3)
-      dotenv (~> 2.7, >= 2.7.4)
       itunes-search-api (~> 0.1.0)
       rspotify (~> 2.6)
 
