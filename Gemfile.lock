@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/vmakoed/euterpe.git
-  revision: e53c14abd451960978349fdd3685f5027255094a
-  ref: e53c14a
+  revision: 5b94d75ce98c01620def9e88d1b6a4f776b428eb
+  ref: 5b94d75
   specs:
     euterpe (0.1.0)
       activesupport (~> 5.2, >= 5.2.3)

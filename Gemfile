@@ -26,7 +26,7 @@ gem 'bootsnap', '>= 1.4.4', require: false
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
 
-gem 'euterpe', github: 'vmakoed/euterpe', ref: 'e53c14a'
+gem 'euterpe', github: 'vmakoed/euterpe', ref: '5b94d75'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

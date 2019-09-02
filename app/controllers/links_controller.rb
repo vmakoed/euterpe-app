@@ -2,6 +2,6 @@
 
 class LinksController < ApplicationController
   def show
-    render json: Euterpe::LinksGenerator.run(source_link: params[:source_link])
+    render json: Euterpe::Aggregator.run(source_link: params[:source_link])
   end
 end
